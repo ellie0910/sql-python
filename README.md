@@ -1,1 +1,4 @@
-Collection of final projects from IBM Data Analyst program that seamlessly blend the power of SQL and Python to enhance data manipulation, analysis, and visualization skills. Hand-on projects using Python that leverage popular libraries like Pandas, NumPy, and Matplotlib. Analyze, clean, and visualize diverse and real-world datasets with a series of SQL projects designed to showcase database querying skills.
+Collection of final projects from IBM Data Analyst program using Skills Network Labs.
+Programming languagues used:
+  Python/Python libraries - Panda, NumPy, Matplotlib, etc.
+  SQL/Databases
